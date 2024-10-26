@@ -9,7 +9,7 @@ Memanfaatkan fungsi 'if' untuk membuat skenario pengeliminasi fungsi pad input.
 Memanfaatkan fungsi 'else' jika skenarionya adalah sebaliknya.
 
 ## Flow chart
-![Flowchart](FLOWCHART_2.PNG)
+![Flowchart](FLOWCHART_1.JPEG)
 
 
 ## Kode Mencari Bilangan Terbesar Dari 3 Bilangan
