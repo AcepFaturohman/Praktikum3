@@ -9,7 +9,8 @@ Memanfaatkan fungsi 'if' untuk membuat skenario pengeliminasi fungsi pad input.
 Memanfaatkan fungsi 'else' jika skenarionya adalah sebaliknya.
 
 ## Flow chart
-![FLOWCHART](FLOWCHART_2.PNG)
+![Flowchart](Flowchart_3_bilangan.png)
+
 
 ## Kode Mencari Bilangan Terbesar Dari 3 Bilangan
 ````
@@ -61,8 +62,7 @@ Program ini ditulis dalam bahasa Python dan memiliki fitur sebagai berikut:
 - Menampilkan angka tertinggi yang berhasil ditemukan.
 
 ## Flowchart 
-
-![Flowchart](FLOWCHART_1.PNG)
+![Flowchart](Flowchart_looping_sederhana.png)
 
 ## Kode
 ````
