@@ -62,4 +62,36 @@ Program ini ditulis dalam bahasa Python dan memiliki fitur sebagai berikut:
 
 ## Flowchart 
 
+![Flowchart](FLOWCHART_1.PNG)
 
+## Kode
+````
+a = 0
+bilangan = int(input("Masukkan bilangan: "))
+while bilangan != 0:
+    if bilangan > a:
+        a = bilangan
+    bilangan = int(input("Masukkan bilangan: "))
+    
+print(f"Bilangan terbesar {a}")
+````
+
+## Contoh Output
+````
+Input angka (0 untuk keluar): 2
+Input angka (0 untuk keluar): 3
+Input angka (0 untuk keluar): 6
+Input angka (0 untuk keluar): 8
+Input angka (0 untuk keluar): 1
+Input angka (0 untuk keluar): 9
+Input angka (0 untuk keluar): 0
+Angka terbesar: 9
+````
+
+## Penjelasan Kode
+
+Inisialisasi Program Cara Kerja: Program dimulai dengan nilai_terbesar diset ke None.
+- Loop: Program berjalan dalam loop tanpa batas.
+- Input:Program meminta pengguna memasukkan angka. Jika pengguna memasukkan 0, program berhenti.
+- Pembaruan: Jika angka lebih besar dari nilai_terbesar, program memperbarui nilai_terbesar. Output: Setelah keluar dari loop, program - 
+- menampilkan angka terbesar yang ditemukan, atau pesan jika tidak ada angka yang dimasukkan.
